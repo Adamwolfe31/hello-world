@@ -1,2 +1,3 @@
 # hello-world
-This is my repo for CS341 HW
+
+This is my hello world project.
